@@ -1,3 +1,6 @@
+#### Centre for Computational Biology - University of Birmingham (03.2020 - 06.2020)
+ 
+
 #### Stage 1
 
 1. Data Visualization, NLP 
